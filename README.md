@@ -1,0 +1,2 @@
+# tesztrepo
+tesztrepo csak gyakorlasra
